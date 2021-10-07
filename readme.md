@@ -34,10 +34,17 @@ After Submitting the form, A One Time Password (OTP) will be generated and copie
 
 **On Submit**
  - On Successful verification of OTP, User be will be redirect to PIXEL6 Home Page.
- - In case of Invalid OTP, After maximum attempts user will be redirected to Pixel6 404 Page.  
+ - In case of Invalid OTP, After maximum attempts user will be redirected to Pixel6 404 Page.
 
 ## Feedback
+If you have any feedback, please reach out to me at shreylawang108@gmail.com 
+***
+# Contributors
+<a href="https://github.com/Shreylawang/Form-Validation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Shreylawang/Form-Validation" />
+</a>
+<br>
 
-If you have any feedback, please reach out to me at shreylawang108@gmail.com
+
 
   
